@@ -1,0 +1,14 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objetivo" ],
+	"name" : "Trabajadora",
+	"pools" : [
+		 ],
+	"super" : "Hormiga",
+	"type" : "normal" }

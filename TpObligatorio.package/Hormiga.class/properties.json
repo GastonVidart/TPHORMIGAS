@@ -1,0 +1,16 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"idHormiga",
+		"miPosicion",
+		"miColonia" ],
+	"name" : "Hormiga",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
