@@ -1,0 +1,14 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"enCamino" ],
+	"name" : "Guerrera",
+	"pools" : [
+		 ],
+	"super" : "Trabajadora",
+	"type" : "normal" }

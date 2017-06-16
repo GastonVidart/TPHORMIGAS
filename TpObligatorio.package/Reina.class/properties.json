@@ -1,0 +1,14 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ComidaMax" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"comidaActual" ],
+	"name" : "Reina",
+	"pools" : [
+		 ],
+	"super" : "Hormiga",
+	"type" : "normal" }

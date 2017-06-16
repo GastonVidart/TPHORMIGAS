@@ -1,0 +1,15 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"explorado",
+		"mensaje" ],
+	"name" : "Exploradora",
+	"pools" : [
+		 ],
+	"super" : "Hormiga",
+	"type" : "normal" }
