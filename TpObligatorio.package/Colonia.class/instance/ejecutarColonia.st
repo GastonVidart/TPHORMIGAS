@@ -1,3 +1,3 @@
-as yet unclassified
+Aplicacion
 ejecutarColonia
-misHormigas do:[:cadaHormiga|cadaHormiga actuar].
+	misHormigas do: [ :cadaHormiga | cadaHormiga actuar ]

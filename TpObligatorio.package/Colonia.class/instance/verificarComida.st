@@ -1,7 +1,7 @@
-as yet unclassified
+Aplicacion
 verificarComida
-|res|
-res:=false.
-(comidaTotal>0)
-ifTrue:[:elto|res:=true].
-^res
+	| res |
+	res := false.
+	comidaTotal > 0
+		ifTrue: [ res := true ].
+	^ res
