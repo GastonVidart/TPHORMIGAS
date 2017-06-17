@@ -1,5 +1,5 @@
 as yet unclassified
-recibirMensaje:tupla
-(tupla getClass =Colonia )
-ifTrue:[:elto|self atacar:tupla]
-ifFalse:[:elt|self recolectar:tupla]
+recibirMensaje:mensaje
+(mensaje getClass =Colonia )
+ifTrue:[:elto|self atacar:mensaje]
+ifFalse:[:elt|self recolectar:mensaje]

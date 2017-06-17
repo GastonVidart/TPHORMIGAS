@@ -1,5 +1,5 @@
 as yet unclassified
-recolectar:tupla
-|colec recolectado|
+recolectar:mensaje
+|colec |
 colec:=misHormigas select:[:cadaHormiga|cadaHormiga verifObrera].
-colec do:[:cadaH|cadaH buscarComida:tupla].
+colec do:[:cadaH|cadaH buscarComida:mensaje].
