@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"getPosicion" : "sdf 6/16/2017 20:24",
+		"inicializar:" : "sdf 6/16/2017 20:39",
+		"setMiColonia:" : "sdf 6/16/2017 20:16",
+		"setMiPosicion" : "sdf 6/16/2017 20:20" } }
