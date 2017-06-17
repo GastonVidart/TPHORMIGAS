@@ -1,5 +1,8 @@
 {
 	"class" : {
-		 },
+		"crearCelda" : "sdf 6/17/2017 11:09" },
 	"instance" : {
-		"getPosicion" : "Yohpex 6/16/2017 21:53" } }
+		"getPosicion" : "Yohpex 6/16/2017 21:53",
+		"iniCelda" : "sdf 6/17/2017 11:03",
+		"iniPropio" : "sdf 6/17/2017 11:21",
+		"setPosicion" : "sdf 6/17/2017 11:17" } }

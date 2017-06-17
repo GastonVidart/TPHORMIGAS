@@ -1,5 +1,5 @@
-as yet unclassified
-recibirMensaje:tupla
-(tupla getClass =Colonia )
-ifTrue:[:elto|self atacar:tupla]
-ifFalse:[:elt|self recolectar:tupla]
+Aplicacion
+recibirMensaje: unMensaje
+	unMensaje getClass = Colonia
+		ifTrue: [ self atacar: unMensaje ]
+		ifFalse: [ self recolectar: unMensaje ]
