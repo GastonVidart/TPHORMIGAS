@@ -1,4 +1,4 @@
-as yet unclassified
+Aplicacion
 pelear:hormiga
 |defensora ataque defensa mundo res|
 defensora:=misHormigas detect: [:cadaH|cadaH verifGuerrera ].

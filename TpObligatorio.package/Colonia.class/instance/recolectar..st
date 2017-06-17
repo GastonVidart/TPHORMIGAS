@@ -1,5 +1,5 @@
-as yet unclassified
-recolectar:mensaje
-|colec |
-colec:=misHormigas select:[:cadaHormiga|cadaHormiga verifObrera].
-colec do:[:cadaH|cadaH buscarComida:mensaje].
+Aplicacion
+recolectar: unMensaje
+	| colec recolectado |
+	colec := misHormigas select: [ :cadaHormiga | cadaHormiga verifObrera ].
+	colec do: [ :cadaH | cadaH buscarComida: unMensaje ]

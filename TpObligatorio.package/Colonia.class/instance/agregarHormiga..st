@@ -1,4 +1,4 @@
-as yet unclassified
+Aplicacion
 agregarHormiga:hormiga
 |nuevaH|
 nuevaH:=Hormiga Colonia:self.

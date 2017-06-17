@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"iniCantAlimento" : "sdf 6/17/2017 11:07",
+		"iniPropio" : "sdf 6/17/2017 11:07",
 		"sustraerComida" : "Yohpex 6/16/2017 21:49",
 		"sustraerLoqueQueda" : "Yohpex 6/16/2017 21:50",
 		"sustraerNormal" : "Yohpex 6/16/2017 21:50" } }
