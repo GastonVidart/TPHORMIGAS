@@ -1,4 +1,4 @@
-Aplicacion
+as yet unclassified
 sustraerLoqueQueda
 |cant|
 cant:=cantAlimento.
