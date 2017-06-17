@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"miPosicion",
-		"miColonia" ],
-	"name" : "Hormiga",
+		"miPosicion" ],
+	"name" : "CeldaMundo",
 	"pools" : [
 		 ],
 	"super" : "Object",

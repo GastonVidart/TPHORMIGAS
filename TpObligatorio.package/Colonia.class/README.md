@@ -17,7 +17,8 @@ Public API and Key Messages
 Internal Representation and Key Implementation Points.
 
     Instance Variables
-	enCamino:		<Object>
+	comidaTotal:		<Object>
+	misHormigas:		<Object>
 
 
     Implementation Points

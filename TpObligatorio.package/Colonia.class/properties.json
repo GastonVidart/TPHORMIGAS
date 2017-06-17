@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"miPosicion",
-		"miColonia" ],
-	"name" : "Hormiga",
+		"misHormigas",
+		"comidaTotal" ],
+	"name" : "Colonia",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "CeldaMundo",
 	"type" : "normal" }
