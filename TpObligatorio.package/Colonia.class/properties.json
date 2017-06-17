@@ -3,12 +3,13 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"ComidaMax" ],
+		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"comidaActual" ],
-	"name" : "Reina",
+		"misHormigas",
+		"comidaTotal" ],
+	"name" : "Colonia",
 	"pools" : [
 		 ],
-	"super" : "Hormiga",
+	"super" : "CeldaMundo",
 	"type" : "normal" }

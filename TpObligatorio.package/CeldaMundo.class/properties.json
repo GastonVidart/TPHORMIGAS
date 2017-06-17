@@ -3,12 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"ComidaMax" ],
+		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"comidaActual" ],
-	"name" : "Reina",
+		"miPosicion" ],
+	"name" : "CeldaMundo",
 	"pools" : [
 		 ],
-	"super" : "Hormiga",
+	"super" : "Object",
 	"type" : "normal" }

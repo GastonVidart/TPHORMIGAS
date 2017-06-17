@@ -17,7 +17,7 @@ Public API and Key Messages
 Internal Representation and Key Implementation Points.
 
     Instance Variables
-	enCamino:		<Object>
+	cantAlimento:		<Object>
 
 
     Implementation Points
