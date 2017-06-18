@@ -2,12 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"agregarHormiga:" : "Yohpex 6/17/2017 14:59",
-		"atacar:" : "Yohpex 6/16/2017 21:52",
-		"ejecutarColonia" : "Yohpex 6/16/2017 21:52",
-		"eliminarHormiga:" : "Yohpex 6/17/2017 15:29",
-		"entregarComida:" : "Yohpex 6/17/2017 16:16",
-		"pelear:" : "Yohpex 6/17/2017 16:07",
-		"recibirMensaje:" : "Yohpex 6/17/2017 16:12",
-		"recolectar:" : "Yohpex 6/17/2017 16:14",
-		"verificarComida" : "Yohpex 6/17/2017 16:06" } }
+		"agregarHormiga:" : "AgustinVidal 6/18/2017 16:51",
+		"atacar:" : "AgustinVidal 6/18/2017 15:57",
+		"crearHormiga:" : "AgustinVidal 6/18/2017 16:51",
+		"ejecutarColonia" : "AgustinVidal 6/18/2017 16:03",
+		"eliminarHormiga:" : "AgustinVidal 6/18/2017 16:17",
+		"entregarComida:" : "AgustinVidal 6/18/2017 16:18",
+		"iniComidaTotal" : "AgustinVidal 6/18/2017 16:03",
+		"iniMisHormigas" : "AgustinVidal 6/18/2017 16:04",
+		"iniPropio" : "sdf 6/17/2017 11:05",
+		"pelear:" : "AgustinVidal 6/18/2017 16:26",
+		"recibirMensaje:" : "AgustinVidal 6/18/2017 15:19",
+		"recolectar:" : "AgustinVidal 6/18/2017 16:16",
+		"verificarComida" : "AgustinVidal 6/18/2017 15:26" } }

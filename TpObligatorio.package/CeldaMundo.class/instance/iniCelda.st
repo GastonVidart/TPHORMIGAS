@@ -1,4 +1,6 @@
 Modificadores
-setMiPosicion
+iniCelda
 	"comment stating purpose of message"
-	miPosicion :=	miColonia getPosicion.
+
+self setPosicion.
+self iniPropio
