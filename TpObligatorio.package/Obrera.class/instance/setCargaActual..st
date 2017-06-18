@@ -2,4 +2,4 @@ Modificadores
 setCargaActual: unaCantidad
 	"comment stating purpose of message"
 
-	cargaActual := 0
+	cargaActual := unaCantidad.

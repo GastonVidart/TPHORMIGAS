@@ -1,3 +1,3 @@
 Aplicacion
 entregarComida:cant
-comidaTotal :=comidaTotal +cant.
+comidaTotal := comidaTotal + cant.
