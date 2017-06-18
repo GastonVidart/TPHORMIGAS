@@ -1,5 +1,5 @@
 Modificadores
 iniCantAlimento
-	"comment stating purpose of message"
+	"Tenemos que determinar el valor inicial"
 
 	cantAlimento := 0

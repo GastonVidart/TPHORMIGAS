@@ -1,5 +1,6 @@
 Aplicacion
 recolectar: unMensaje
-	| colec recolectado |
-	colec := misHormigas select: [ :cadaHormiga | cadaHormiga verifObrera ].
-	colec do: [ :cadaH | cadaH buscarComida: unMensaje ]
+	"Tenemos que determinar cuantas obreras se enviaran"
+	| colec |
+	colec := misHormigas select: [ :cadaHormiga | cadaHormiga verificarObrera ].
+	colec do: [ :cadaH | cadaH enviarObjetivo: unMensaje ].

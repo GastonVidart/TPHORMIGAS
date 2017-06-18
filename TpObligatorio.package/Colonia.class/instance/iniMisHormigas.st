@@ -1,5 +1,5 @@
 Modificadores
 iniMisHormigas
-	"comment stating purpose of message"
+	"Deberiamos determinar como llenaremos la collecion la primera vez"
 
 	misHormigas := OrderedCollection new.
