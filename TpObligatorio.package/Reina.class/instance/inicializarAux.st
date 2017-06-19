@@ -1,4 +1,4 @@
 Modificadores
 inicializarAux
 	self setComidaActual: 0.
-	ComidaMax:= 5.
+	ComidaMax := 5.

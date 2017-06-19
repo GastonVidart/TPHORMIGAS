@@ -1,5 +1,5 @@
 Aplicacion
-actuar2
+actuar2: posColonia
 	"comment stating purpose of message"
 
 	self subclassResponsibility 

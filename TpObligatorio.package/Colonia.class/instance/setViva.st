@@ -1,6 +1,5 @@
 Modificadores
-iniCelda
+setViva
 	"comment stating purpose of message"
 
-self setPosicion.
-self iniPropio
+	viva := true
