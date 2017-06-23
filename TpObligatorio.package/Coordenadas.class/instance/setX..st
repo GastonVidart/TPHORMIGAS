@@ -1,3 +1,5 @@
 Modificadores
-iniAux2
+setX: unValor
 	"comment stating purpose of message"
+
+	x := unValor

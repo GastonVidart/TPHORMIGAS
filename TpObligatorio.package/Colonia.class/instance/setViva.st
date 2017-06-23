@@ -1,5 +1,5 @@
 Modificadores
-setEnCamino: unaCodicion
+setViva
 	"comment stating purpose of message"
 
- enCamino := unaCodicion 
+	viva := true

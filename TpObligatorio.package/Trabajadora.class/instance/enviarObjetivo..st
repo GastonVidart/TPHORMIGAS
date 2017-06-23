@@ -1,3 +1,3 @@
 Modificadores
 enviarObjetivo: unObjetivo
-	objetivo:= unObjetivo.
+	objetivo := unObjetivo

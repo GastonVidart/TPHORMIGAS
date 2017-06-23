@@ -1,3 +1,5 @@
-Modificadores
-iniAux2
+Aplicacion
+setMuerta
 	"comment stating purpose of message"
+	
+	viva:=false

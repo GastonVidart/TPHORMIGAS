@@ -1,6 +1,5 @@
 Modificadores
-iniCelda
+setY: unValor
 	"comment stating purpose of message"
 
-self setPosicion.
-self iniPropio
+	y := unValor
