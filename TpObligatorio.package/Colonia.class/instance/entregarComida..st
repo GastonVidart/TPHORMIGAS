@@ -1,3 +1,3 @@
 Aplicacion
-entregarComida:cant
-comidaTotal :=comidaTotal +cant.
+entregarComida: cant
+	comidaTotal := comidaTotal + cant

@@ -1,6 +1,6 @@
 Aplicacion
 sustraerLoqueQueda
-|cant|
-cant:=cantAlimento.
-cantAlimento:=0.
-^cant
+	| cant |
+	cant := cantAlimento.
+	cantAlimento := 0.
+	^ cant

@@ -1,6 +1,4 @@
 Aplicacion
-agregarHormiga:hormiga
-|nuevaH|
-nuevaH:=Hormiga Colonia:self.
-misHormigas add:nuevaH.
+agregarHormiga: hormiga
+	misHormigas add: hormiga.
 

@@ -1,4 +1,5 @@
 Modificadores
-setMiPosicion
+setViva
 	"comment stating purpose of message"
-	miPosicion :=	miColonia getPosicion.
+
+	viva := true

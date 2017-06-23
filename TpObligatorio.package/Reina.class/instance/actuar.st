@@ -5,4 +5,5 @@ actuar
 	| comio |
 	comio := self comer.
 	(comio and: comidaActual = ComidaMax)
-		ifTrue: [ self reproducirse ]
+		ifTrue: [ self reproducirse.
+			self setComidaActual: 0 ].

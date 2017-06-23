@@ -1,5 +1,5 @@
 Aplicacion
-actuar
+setMuerta
 	"comment stating purpose of message"
-
-	self subclassResponsibility.
+	
+	viva:=false

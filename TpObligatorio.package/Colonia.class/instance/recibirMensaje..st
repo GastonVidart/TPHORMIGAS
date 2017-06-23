@@ -1,5 +1,7 @@
 Aplicacion
 recibirMensaje: unMensaje
-	unMensaje getClass = Colonia
+	""
+
+	(unMensaje isMemberOf: self class)
 		ifTrue: [ self atacar: unMensaje ]
 		ifFalse: [ self recolectar: unMensaje ]

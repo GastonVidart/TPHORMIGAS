@@ -1,6 +1,5 @@
 Modificadores
-setPosicion
+setX: unValor
 	"comment stating purpose of message"
 
-	miPosicion := 5.
-	
+	x := unValor
