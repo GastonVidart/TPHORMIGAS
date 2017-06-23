@@ -1,9 +1,10 @@
 {
 	"class" : {
-		 },
+		"crearCordenadax:y:" : "Yohpex 6/23/2017 17:04" },
 	"instance" : {
 		"equals:" : "sdf 6/23/2017 15:05",
 		"getX" : "sdf 6/23/2017 15:05",
 		"getY" : "sdf 6/23/2017 15:05",
+		"inix:y:" : "Yohpex 6/23/2017 17:05",
 		"setX:" : "sdf 6/23/2017 15:05",
 		"setY:" : "sdf 6/23/2017 15:05" } }
