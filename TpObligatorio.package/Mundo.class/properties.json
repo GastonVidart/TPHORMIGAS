@@ -1,0 +1,15 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"matrizMundo",
+		"misColonias" ],
+	"name" : "Mundo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,6 +1,14 @@
 Aplicacion
-atacar: tupla
+atacar: unMensaje
 	"Deberiamos determinar que cantidad de guerreras se enviaran en cada ataque"
-	| colec |
-	colec := misHormigas select: [ :cadaHormiga | cadaHormiga verificarGuerrera ].
-	colec do: [ :cadaH | cadaH enviarObjetivo: tupla ].
+
+	| guerreras i enviadas |
+	enviadas := 0.
+	i := 1.
+	guerreras := misHormigas select: [ :cadaHormiga | cadaHormiga verificarGuerrera ].
+	[ (i to: guerreras size) and: enviadas <= 5 ]
+		whileTrue: [ :cadaH | 
+			cadaH tieneObjetivo
+				ifTrue: [ cadaH enviarObjetivo: unMensaje.
+					enviadas := enviadas + 1 ].
+			i := i + 1 ]
