@@ -1,5 +1,5 @@
 Aplicacion
 eliminarHormiga: hormiga
-	""
-
-	misHormigas remove: hormiga ifAbsent: [ ^ nil ]
+	hormiga verificarReina
+		ifTrue: [ miMundo eliminarColonia: self ]
+		ifFalse: [ misHormigas remove: hormiga ]
