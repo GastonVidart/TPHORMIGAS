@@ -1,5 +1,9 @@
 Aplicacion
 eliminarHormiga: hormiga
+	| elMundo |
 	hormiga verificarReina
-		ifTrue: [ miMundo eliminarColonia: self ]
-		ifFalse: [ misHormigas remove: hormiga ]
+		ifTrue: [ Transcript show: 'Murio la colonia'.
+			elMundo := hormiga getMiMundo.
+			elMundo eliminarColonia: self ]
+		ifFalse: [ Transcript show: 'Murio unaHormiga'.
+			misHormigas remove: hormiga ]

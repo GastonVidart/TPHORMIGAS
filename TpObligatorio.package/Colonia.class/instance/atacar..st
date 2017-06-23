@@ -11,4 +11,5 @@ atacar: unMensaje
 			cadaH tieneObjetivo
 				ifTrue: [ cadaH enviarObjetivo: unMensaje.
 					enviadas := enviadas + 1 ].
-			i := i + 1 ]
+			i := i + 1 ].
+	Transcript show: 'Se enviaron: ', enviadas , ' hormigas a atacar'.
