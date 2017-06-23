@@ -1,0 +1,15 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"capacidad",
+		"cargaActual" ],
+	"name" : "Obrera",
+	"pools" : [
+		 ],
+	"super" : "Trabajadora",
+	"type" : "normal" }

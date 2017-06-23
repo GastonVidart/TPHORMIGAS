@@ -1,0 +1,16 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"misHormigas",
+		"comidaTotal",
+		"viva" ],
+	"name" : "Colonia",
+	"pools" : [
+		 ],
+	"super" : "CeldaMundo",
+	"type" : "normal" }

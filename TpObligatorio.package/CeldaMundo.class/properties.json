@@ -1,0 +1,14 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"miPosicion" ],
+	"name" : "CeldaMundo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

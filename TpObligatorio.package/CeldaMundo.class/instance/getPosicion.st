@@ -1,0 +1,3 @@
+Observadores
+getPosicion
+^miPosicion 

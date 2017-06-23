@@ -1,0 +1,14 @@
+{
+	"category" : "TpObligatorio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Guerrera",
+	"pools" : [
+		 ],
+	"super" : "Trabajadora",
+	"type" : "normal" }
