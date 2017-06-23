@@ -1,8 +1,8 @@
 Constructor
-crearCeldaX: unValor1 Y: unValor2
+crearCelda:cordenada mundo:mundo
 	"comment stating purpose of message"
 
 	|tmp|
 	tmp:= self new.
-	tmp iniCeldaX: unValor1 Y: unValor2 .
+	tmp iniCelda:cordenada  mundo:mundo.
 	^tmp
