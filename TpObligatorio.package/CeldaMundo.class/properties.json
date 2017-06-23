@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"miPosicion" ],
+		"miPosicion",
+		"miMundo" ],
 	"name" : "CeldaMundo",
 	"pools" : [
 		 ],
