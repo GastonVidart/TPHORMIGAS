@@ -1,9 +1,5 @@
 Inicializador
-iniMundo:colonias
-|matriz|
-misColonias:=colonias.
-matrizMundo:=matriz:=Matrix new:10.
-
-
-
-
+iniMundo: colonias
+	| matriz |
+	misColonias := colonias.
+	matrizMundo := matriz := Matrix new: 10
