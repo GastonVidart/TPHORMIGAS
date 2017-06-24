@@ -1,7 +1,6 @@
 Inicializador
-iniMundo: colonias
+iniMundo
 	| celdaAux coordAux |
-	misColonias := colonias.
 	matrizMundo := Matrix new: 10.
 	1 to: 10 do: [ :i | 
 		1 to: 10 do: [ :j | 
