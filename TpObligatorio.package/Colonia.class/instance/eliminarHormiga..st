@@ -5,5 +5,5 @@ eliminarHormiga: hormiga
 		ifTrue: [ Transcript show: 'Murio la colonia'.
 			elMundo := hormiga getMiMundo.
 			elMundo eliminarColonia: self ]
-		ifFalse: [ Transcript show: 'Murio unaHormiga'.
+		ifFalse: [ Transcript show: 'Murio una Hormiga'.
 			misHormigas remove: hormiga ]
