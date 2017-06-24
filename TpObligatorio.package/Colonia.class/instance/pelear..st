@@ -9,9 +9,7 @@ pelear: hormiga
 	ataque = defensa
 		ifTrue: [ res := true ]
 		ifFalse: [ ataque > defensa
-				ifTrue: [ defensora verificarReina
-						ifTrue: [ mundo eliminarColonia: self ]
-						ifFalse: [ self eliminarHormiga: defensora.
-							res := true ] ]
+				ifTrue: [ self eliminarHormiga: defensora.
+					res := true ]
 				ifFalse: [ res := false ] ].
 	^ res

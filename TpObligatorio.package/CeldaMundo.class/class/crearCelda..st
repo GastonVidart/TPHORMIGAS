@@ -1,8 +1,8 @@
 Constructor
-crearCelda:cordenada mundo:mundo
+crearCelda:coordenada
 	"comment stating purpose of message"
 
 	|tmp|
 	tmp:= self new.
-	tmp iniCelda:cordenada  mundo:mundo.
+	tmp iniCelda: coordenada.
 	^tmp

@@ -1,15 +1,16 @@
 {
 	"class" : {
-		"Colonia:" : "AgustinVidal 6/16/2017 21:23",
-		"crearHormiga:" : "sdf 6/17/2017 11:13" },
+		"crearHormiga:mundo:" : "sdf 6/23/2017 19:52" },
 	"instance" : {
 		"actuar" : "AgustinVidal 6/18/2017 15:57",
-		"comer" : "sdf 6/17/2017 16:05",
+		"comer" : "Yohpex 6/23/2017 20:57",
+		"getMiMundo" : "sdf 6/23/2017 20:31",
 		"getPosicion" : "sdf 6/16/2017 20:24",
-		"inicializar:" : "AgustinVidal 6/18/2017 15:29",
+		"inicializar:mundo:" : "sdf 6/23/2017 19:52",
 		"inicializarAux" : "sdf 6/17/2017 11:11",
-		"moverse:" : "Yohpex 6/23/2017 17:47",
+		"moverse:" : "Yohpex 6/23/2017 21:00",
 		"setMiColonia:" : "sdf 6/16/2017 20:16",
+		"setMiMundo:" : "sdf 6/23/2017 19:54",
 		"setMiPosicion" : "sdf 6/16/2017 20:20",
 		"setMiPosicion:" : "AgustinVidal 6/18/2017 15:30",
 		"verificarGuerrera" : "AgustinVidal 6/18/2017 15:59",

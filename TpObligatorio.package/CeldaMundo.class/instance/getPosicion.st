@@ -1,3 +1,0 @@
-Observadores
-getPosicion
-^miPosicion 
