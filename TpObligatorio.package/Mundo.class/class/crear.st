@@ -1,4 +1,4 @@
-as yet unclassified
+constructor
 crear
 |mundo|
 mundo:=self new.
