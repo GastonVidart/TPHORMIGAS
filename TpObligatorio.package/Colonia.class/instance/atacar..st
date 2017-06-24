@@ -12,4 +12,4 @@ atacar: unMensaje
 				ifTrue: [ cadaH enviarObjetivo: unMensaje.
 					enviadas := enviadas + 1 ].
 			i := i + 1 ].
-	Transcript show: 'Se enviaron: ', enviadas , ' hormigas a atacar'.
+	Transcript show: 'Se enviaron: ', enviadas , ' hormigas a atacar';cr.
