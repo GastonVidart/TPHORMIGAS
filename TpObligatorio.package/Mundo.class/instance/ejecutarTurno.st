@@ -1,5 +1,14 @@
 Aplicacion
 ejecutarTurno
-	misColonias size > 1
-		ifTrue: [ misColonias do: [ :cadColonia | cadColonia ejecutarColonia ] ]
-		ifFalse: [ Transcript show: 'La colonia ganadora es: ' , (misColonias at: 1), '.' ]
+	| contMuertas coloniasMuertas |
+	contMuertas := 0.
+	coloniasMuertas := OrderedCollection new.
+	[ contMuertas < 3 ]
+		whileTrue: [ misColonias
+				do: [ :cadColonia | 
+					cadColonia getEstado
+						ifTrue: [ cadColonia ejecutarColonia ]
+						ifFalse: [ (coloniasMuertas includes: cadColonia)
+								ifFalse: [ contMuertas := contMuertas + 1.
+									coloniasMuertas add: cadColonia ] ] ] ].
+	Transcript show: 'Gano una colonia.'
