@@ -11,4 +11,4 @@ recolectar: unMensaje
 				ifTrue: [ cadaH enviarObjetivo: unMensaje.
 					enviadas := enviadas + 1 ].
 			i := i + 1 ]	.
-	Transcript show: 'Se enviaron: ', enviadas , ' hormigas a recolectar'.
+	Transcript show: 'Se enviaron: ', enviadas , ' hormigas a recolectar';cr.
