@@ -3,6 +3,6 @@ sustraerComida
 	| cant |
 	cant := 0.
 	cantAlimento > 0 & (cantAlimento > 3)
-		ifTrue: [ :elto | cant := self sustraerNormal ]
-		ifFalse: [ :el | cant := self sustraerLoqueQueda ].
+		ifTrue: [ cant := self sustraerNormal ]
+		ifFalse: [ cant := self sustraerLoqueQueda ].
 	^ cant

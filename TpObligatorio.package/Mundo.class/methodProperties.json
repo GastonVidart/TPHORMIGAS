@@ -4,10 +4,11 @@
 		"precargaAutomatica" : "AgustinVidal 6/23/2017 23:20" },
 	"instance" : {
 		"cambiarCeldax:y:cambio:" : "AgustinVidal 6/23/2017 23:26",
-		"ejecutarTurno" : "sdf 6/23/2017 21:19",
-		"eliminarColonia:" : "sdf 6/23/2017 21:19",
+		"ejecutarTurno" : "AgustinVidal 6/24/2017 00:13",
+		"eliminarColonia:" : "AgustinVidal 6/24/2017 00:15",
 		"iniCeldasAut" : "AgustinVidal 6/23/2017 23:21",
 		"iniHormigasAut" : "AgustinVidal 6/23/2017 23:21",
 		"iniMundo" : "Yohpex 6/23/2017 22:23",
+		"iniMundo:" : "sdf 6/23/2017 22:00",
 		"iniMundoAut" : "AgustinVidal 6/23/2017 23:21",
 		"recuperarX:Y:" : "sdf 6/23/2017 20:00" } }
