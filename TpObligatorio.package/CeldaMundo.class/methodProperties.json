@@ -2,6 +2,7 @@
 	"class" : {
 		"crearCelda:" : "sdf 6/23/2017 19:45" },
 	"instance" : {
+		"equals:" : "sdf 6/23/2017 20:58",
 		"getCoordenada" : "sdf 6/23/2017 19:56",
 		"iniCelda:" : "Yohpex 6/23/2017 21:50",
 		"iniPropio" : "Yohpex 6/23/2017 21:53",
