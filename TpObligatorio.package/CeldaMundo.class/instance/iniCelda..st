@@ -1,4 +1,4 @@
 Modificadores
 iniCelda: coordenada
-	self setPosicion: coordenada.
+	self setCoordenada:coordenada.
 	self iniPropio

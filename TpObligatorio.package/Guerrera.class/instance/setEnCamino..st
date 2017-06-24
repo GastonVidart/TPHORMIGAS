@@ -1,4 +1,5 @@
 Modificadores
-iniObjetivo
+setEnCamino: unaCodicion
 	"comment stating purpose of message"
-	objetivo := miColonia
+
+ enCamino := unaCodicion 
