@@ -1,4 +1,4 @@
-as yet unclassified
+Aplicacion
 recuperarX: unValor1 Y: unValor2
 	"devuelve una CeldaMundo"
 

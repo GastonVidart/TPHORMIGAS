@@ -1,4 +1,4 @@
-as yet unclassified
+Aplicacion
 ejecutarTurno
 	misColonias size > 1
 		ifTrue: [ misColonias do: [ :cadColonia | cadColonia ejecutarColonia ] ]
