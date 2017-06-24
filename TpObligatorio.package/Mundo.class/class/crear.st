@@ -1,6 +1,6 @@
 as yet unclassified
-crear:colonias
+crear
 |mundo|
 mundo:=self new.
-mundo iniMundo:colonias.
+mundo iniMundo.
 ^mundo

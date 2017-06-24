@@ -7,5 +7,5 @@ actuar2
 		ifFalse: [ objetivo getEstado
 				ifTrue: [ res := objetivo pelear: self.
 					res
-						ifFalse: [ miColonia eliminarHormiga: self ] ]
-				ifFalse: [ objetivo := miColonia ] ]
+						ifFalse: [ miColonia eliminarHormiga: self .Transcript show:'Derrota';cr] ]
+				ifFalse: [ objetivo := miColonia.Transcript show:'Victoria GG WP';cr ] ]
