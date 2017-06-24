@@ -17,3 +17,5 @@ moverse: destino
 						ifTrue: [ y1 := y1 + 1 ]
 						ifFalse: [ y1 := y1 - 1 ] ] ].
 	self setMiPosicion: (miMundo recuperarX: x1 Y: y1).
+	Transcript show:'me movi...';cr.
+	
